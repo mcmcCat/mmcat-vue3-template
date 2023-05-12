@@ -5,6 +5,8 @@
     "module": "esnext",
     "lib": ["esnext", "DOM", "DOM.Iterable"],
     "skipLibCheck": true,
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
     /* Bundler mode */
     "moduleResolution": "node",
     "resolveJsonModule": true,
