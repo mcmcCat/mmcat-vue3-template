@@ -1,0 +1,10 @@
+dist/*
+/node_modules/**
+*.json
+*.d.ts
+.local
+*.js
+**/*.svg
+**/*.sh
+.md
+*.ts
