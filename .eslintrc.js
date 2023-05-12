@@ -21,7 +21,7 @@ module.exports = {
     ecmaVersion: "latest",
     sourceType: "module",
     parser: "@typescript-eslint/parser",
-    project: ["./tsconfig.json","commitlint.config.js"], // 让ESLint 可以获取到项目中的 TypeScript 类型信息，包括类型定义和类型检查结果。
+    project: ["./tsconfig.json"], // 让ESLint 可以获取到项目中的 TypeScript 类型信息，包括类型定义和类型检查结果。
     extraFileExtensions: [".vue"], // 这个配置的作用就是告诉 @typescript-eslint/parser 把 .vue 文件也做为 TypeScript 脚本来解析。(对于内嵌ts的vue文件)
   },
   rules: {
