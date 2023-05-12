@@ -7,7 +7,6 @@
     "build": "vue-tsc && vite build",
     "preview": "vite preview",
     "lint": "eslint . --ext .ts,.vue --fix && stylelint **/*.css **/*.vue --fix",
-    "lint:prettier": "prettier {src,mock}/**/*.{html,vue,css,sass,scss,ts,md} --write",
     "prepare": "husky install",
     "commit": "git add . && git-cz && npm run changelog",
     "changelog": "conventional-changelog -p angular -u -i CHANGELOG.md -s -r 0"
