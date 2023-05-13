@@ -1,7 +1,21 @@
 {
   "name": "mmcat-vue3-template",
   "private": true,
-  "version": "0.0.3",
+  "version": "0.0.4",
+  "description": "A Good Template \r - mcmcCat的工程化初始\r # Features\r - 👑 Vue3.2全家桶 \r - ⚡️ Vite\r - 💎 TypeScript\r - 🚥 ESlint\r - 🌞 Prettier\r - 🎁 Lint_staged\r - 🚨 Commitlint\r - 🎷 husky\r - 🔨 Commitizen\r - 📝 conventional-changelog-cli",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mcmcCat/vue3-vite-template.git"
+  },
+  "keywords": [
+    "Vue3.2+Vite+TS+Eslint+Prettier+Husky"
+  ],
+  "author": "mcmcCat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mcmcCat/vue3-vite-template/issues"
+  },
+  "homepage": "https://github.com/mcmcCat/vue3-vite-template#readme",
   "scripts": {
     "dev": "vite",
     "build": "vue-tsc && vite build",
