@@ -4,6 +4,7 @@
 ### Bug Fixes
 
 * **custom:** 测试fixbug的changelog ([7426b75](https://github.com/mcmcCat/vue3-vite-template/commit/7426b75974252271c01035237b1eb821e43ce759))
+* **custom:** changelogbug解决 ([1460056](https://github.com/mcmcCat/vue3-vite-template/commit/146005600ea2e58e82914c241bc0891ddbd38da0))
 
 
 ### Features
