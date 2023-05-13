@@ -20,6 +20,8 @@ module.exports = {
     footer: '请输入要关闭的issue(可选):',
     confirmCommit: '确认使用以上信息提交？(y/n/e/h)'
   },
+  // 关闭scope关键词
+  allowCustomScopes: false,
   // 跳过问题
   skipQuestions: ['customScope', 'footer'],
   // subject文字长度限制默认是72
