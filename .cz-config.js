@@ -1,4 +1,6 @@
 module.exports = {
+  // 配置格式化提交信息的方式
+  format: '{{type}}: {{subject}} {{body}}',
   // 可选类型
   types: [
     { value: 'feat', name: 'feat:     ✨新功能' },
