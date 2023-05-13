@@ -19,11 +19,12 @@ module.exports = {
       'always',
       [
         'feat',
+        'test',
         'fix',
         'docs',
         'style',
         'refactor',
-        'test',
+        'perf',
         'chore',
         'revert',
       ],
