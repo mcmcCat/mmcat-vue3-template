@@ -22,7 +22,7 @@
     "preview": "vite preview",
     "lint": "eslint . --ext .ts,.vue --fix && stylelint **/*.css **/*.vue --fix",
     "prepare": "husky install",
-    "commit": "git add . && git-cz  && npm run changelog",
+    "commit": "git add . && git-cz",
     "changelog": "conventional-changelog -p angular -i CHANGELOG.md -s"
   },
   "lint-staged": {
