@@ -21,6 +21,7 @@ module.exports = {
     confirmCommit: '确认使用以上信息提交？(y/n/e/h)'
   },
   // 关闭scope关键词
+  scopes: [],
   allowCustomScopes: false,
   // 跳过问题
   skipQuestions: ['customScope', 'footer'],
