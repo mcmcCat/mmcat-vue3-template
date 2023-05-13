@@ -1,7 +1,7 @@
 {
   "name": "mmcat-vue3-template",
   "private": true,
-  "version": "0.0.4",
+  "version": "1.0.0",
   "description": "A Good Template \r - mcmcCat的工程化初始\r # Features\r - 👑 Vue3.2全家桶 \r - ⚡️ Vite\r - 💎 TypeScript\r - 🚥 ESlint\r - 🌞 Prettier\r - 🎁 Lint_staged\r - 🚨 Commitlint\r - 🎷 husky\r - 🔨 Commitizen\r - 📝 conventional-changelog-cli",
   "repository": {
     "type": "git",
