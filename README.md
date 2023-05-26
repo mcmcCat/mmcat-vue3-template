@@ -4,13 +4,14 @@ A Good Template <br/>
 
 # Features
 
-- 👑 Vue3.2 (全家桶搭建中)
+- 👨‍👦‍👦 Vue3.2全家桶
 - ⚡️ Vite
-- 💎 TypeScript
-- 🚥 ESlint
-- 🌞 Prettier
-- 🎁 Lint_staged
+- ⛓ TypeScript
+- 👮‍♂️ ESlint
+- 💄 Prettier
+- ✨ Stylelint
+- 👷 Lint_staged
 - 🚨 Commitlint
-- 🎷 husky
+- 🎣 husky
 - 🔨 Commitizen
 - 📝 conventional-changelog-cli
