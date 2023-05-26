@@ -1,0 +1,27 @@
+@font-face {
+  font-family: iconfont; /* Project id 4089307 */
+  src: url('iconfont.woff2?t=1685096682225') format('woff2'),
+       url('iconfont.woff?t=1685096682225') format('woff'),
+       url('iconfont.ttf?t=1685096682225') format('truetype');
+}
+
+.iconfont {
+  font-size: 16px;
+  font-family: iconfont !important;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-exclamation-point-block::before {
+  content: "\e6fd";
+}
+
+.icon-close-block::before {
+  content: "\e6fe";
+}
+
+.icon-ok-block::before {
+  content: "\e6ff";
+}
+

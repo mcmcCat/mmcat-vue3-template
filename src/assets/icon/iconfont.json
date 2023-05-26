@@ -1,0 +1,30 @@
+{
+  "id": "4089307",
+  "name": "message",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "28046210",
+      "name": "exclamation-point-block",
+      "font_class": "exclamation-point-block",
+      "unicode": "e6fd",
+      "unicode_decimal": 59133
+    },
+    {
+      "icon_id": "28046211",
+      "name": "close-block",
+      "font_class": "close-block",
+      "unicode": "e6fe",
+      "unicode_decimal": 59134
+    },
+    {
+      "icon_id": "28046212",
+      "name": "ok-block",
+      "font_class": "ok-block",
+      "unicode": "e6ff",
+      "unicode_decimal": 59135
+    }
+  ]
+}

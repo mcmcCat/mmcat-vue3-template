@@ -29,8 +29,10 @@ module.exports = {
     "prettier/prettier": "error", // 让代码文件中不符合prettier格式化规则的都标记为错误
     "arrow-body-style": "off", // 箭头函数的函数体规则（官方冲突默认不可解决，选择关闭）
     "prefer-arrow-callback": "off", // 检测可以转换为箭头函数的函数（官方冲突默认不可解决，选择关闭）
-    // '@typescript-eslint/no-var-requires': 0, // 0关闭规则，1警告，2错误
+    '@typescript-eslint/no-var-requires': 0, // 0关闭规则，1警告，2错误
     "@typescript-eslint/no-empty-function": 1, //空函数，defineProps时会用到
     "vue/multi-word-component-names": 1,
+    "no-unused-vars": "off",
+    "@typescript-eslint/no-unused-vars": "off"
   },
 };

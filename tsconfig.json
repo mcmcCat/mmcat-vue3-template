@@ -16,7 +16,7 @@
     /* Linting */
     "strict": false,
     "strictNullChecks": true,
-    "noUnusedLocals": true,
+    "noUnusedLocals": false,
     "noUnusedParameters": true,
     "noFallthroughCasesInSwitch": true
   },
@@ -28,5 +28,10 @@
     "vite.config.ts",
     "commitlint.config.js"
   ],
+  "baseUrl": "./",
+  "paths": {
+    "@/*": ["src/*"],
+    "icon/*": ["src/assets/icon/*"]
+  },
   "references": [{ "path": "./tsconfig.node.json" }]
 }
